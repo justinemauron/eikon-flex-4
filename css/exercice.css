@@ -23,6 +23,13 @@
 /*4. exercice-align-content-2 */
 
 /*5. exercice-align-content-3 */
+.exercice-align-content-3 .container-small {
+  display: flex;
+ flex-wrap: nowrap;
+ flex-direction: column-reverse;
+ align-items: end;
+ align-content: space-between;
+}
 
 /*6. exercice-flex-grow-1 */
 
